@@ -144,3 +144,4 @@ For privacy reasons, names would be @usernames instead
 ## Appendix
 -	MVP = Minimum Viable Product
 -	NPO = Non-Profit Organization
+-	IC = Individual Contributor
