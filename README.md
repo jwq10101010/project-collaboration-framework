@@ -5,7 +5,7 @@ This repository outlines a framework for software collaboration
 
 Implement a sign-up sheet where the project oversight and individual contributors can sign up and also include the project details. The number of sign-up sheets can scale up as needed depending on the size of the group.
 
-For those looking for a mentorship opportunity, resume experience, or to dabble in a particular tech stack, run the “Curriculum template” flow.
+For those looking for a mentorship opportunity, resume experience, or to find a hobby, run the “Curriculum template” flow.
 
 For those looking to create an open-source project, startup, or non-profit organization, run the “Workplace template” flow.
 
