@@ -48,7 +48,7 @@ For those looking to create an open-source project, startup, or non-profit organ
 **Names sourced from:**
 https://www.reddit.com/r/namenerds/comments/ge0dz4/what_are_some_clever_pun_names
 
-For privacy reasons, names would be @usernames instead
+For privacy reasons, names could be @usernames instead
 
 **Project overseer:** Teresa Brown
 
