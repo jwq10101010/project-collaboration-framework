@@ -81,7 +81,7 @@ For privacy reasons, names would be @usernames instead
 -	Tim Burr
 
 ## Curriculum notes for the project overseer
--	When developing the curriculum, limit the time commitment to 1 semester.
+-	When developing the curriculum, limit the time commitment to 1 semester maximum.
 -	Gauge the experience level of the group: If they are self-starters, then just field any questions they have; if more newbie, may need to go over basic things like git repo management, SDLC best practices, etc. and also play a more active role in overseeing the project
 -	Lay down the groundwork: make sure the group sits down and comes up with the design and technical requirements for their app BEFORE doing any coding.
 -	For disagreements on the app design: look for a compromise. An example for web page, if everyone has different interests, consider developing a home page which links to each IC’s topic pages.
