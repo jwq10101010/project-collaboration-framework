@@ -1,5 +1,5 @@
 # Project Collaboration Framework
-This repository outlines a framework for software collaboration
+This repository outlines a framework for software collaboration. The goal of this framework is to develop a thinking based on the MVP: start with a core product and iteratively develop new features.
 
 ## Bootstrap instructions
 
