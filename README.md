@@ -7,7 +7,7 @@ Implement a sign-up sheet where the project oversight and individual contributor
 
 For those looking for a mentorship opportunity, resume experience, or to find a hobby, run the “Curriculum template” flow.
 
-For those looking to create an open-source project, startup, or non-profit organization, run the “Workplace template” flow.
+For those looking to create an open-source project, startup/for-profit business, or non-profit organization, run the “Workplace template” flow.
 
 ## Curriculum template (to simulate a university course capstone project)
 
