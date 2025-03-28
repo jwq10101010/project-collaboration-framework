@@ -131,6 +131,9 @@ For privacy reasons, names could be @usernames instead
 -	Startups and NPOs have regulatory and other requirements that need to be considered before work can progress
 -	The project may require seed funding or an angel investment
 
+## Additional items to consider in the specification
+- Role(s) required (e.g. DevOps/QA/Systems Architect/etc)
+
 ## Future enhancements to the framework / guides
 -	Code repository licensing
 -	Incorporating the template within SDLC methodology (Kanban, Agile, etc)
