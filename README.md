@@ -133,6 +133,7 @@ For privacy reasons, names could be @usernames instead
 
 ## Additional items to consider in the specification
 - Role(s) required (e.g. DevOps/QA/Systems Architect/etc)
+- Level of Experience could also be Year(s) of Experience
 
 ## Future enhancements to the framework / guides
 -	Code repository licensing
