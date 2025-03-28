@@ -1,4 +1,4 @@
-# Project Collaboration Framework
+# Project Collaboration Framework (should probably change to Software Collaboration Framework)
 This repository outlines a framework for software collaboration. The goal of this framework is to develop a thinking based on the MVP: start with a core product and iteratively develop new features.
 
 ## Bootstrap instructions
