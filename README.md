@@ -134,7 +134,7 @@ For privacy reasons, names could be @usernames instead
 ## Additional items to consider in the specification
 - Role(s) required (e.g. DevOps/QA/Systems Architect/etc)
 - Level of Experience could also be Year(s) of Experience
-- For-profit orgs: consider adding other roles such as Head of Monetization, HR, legal, design leads (inspired by Mythic Quest)
+- For-profit orgs: consider adding other roles such as Head of Monetization, HR, legal, design leads, QA testers (inspired by Mythic Quest)
 
 ## Future enhancements to the framework / guides
 -	Code repository licensing
